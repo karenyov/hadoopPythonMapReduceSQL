@@ -1,2 +1,3 @@
-# hadoopPythonMapReduceSQL
-Hadoop Python Map Reduce SQL - PUC Minas
+# Hadoop
+Hadoop Python MapReduce SQL - PUC Minas 
+
